@@ -1,2 +1,2 @@
-# aws-parameterstore
+# Spring Boot with AWS Parameter
 # aws-parameterstore
