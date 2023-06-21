@@ -1,0 +1,8 @@
+aws:
+    paramstore:
+        enabled: true
+        name: customer
+        prefix: /config
+        profileSeparator: _
+    secretsmanager:
+        enabled: false
